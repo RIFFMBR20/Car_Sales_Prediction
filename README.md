@@ -1,5 +1,7 @@
 # Car Price Prediction Project
 
+![image](https://github.com/RIFFMBR20/Car_Sales_Prediction/assets/95732582/e5788100-5f7d-4829-9b84-4f251785837c)
+
 ## Overview
 This project aims to predict the selling price of used cars using machine learning techniques. The dataset `cars.csv` includes various attributes of cars such as mileage, engine size, max power, and seats, which are used to train a Decision Tree Regressor model. The project involves data preprocessing, visualization, feature engineering, and model training and evaluation.
 
